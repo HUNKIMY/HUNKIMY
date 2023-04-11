@@ -1,5 +1,3 @@
-<h1>👋 Hunjung Kim</h1>
-
 <h2>🔭 의미있는 결과를 도출해내는 데이터 분석가</h2>
 
 <h3>📚 Tech Stack 📚</h3>
