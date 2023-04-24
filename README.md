@@ -1,5 +1,5 @@
 <h1>👋 Hello </h1>
-<h2>🔭 의미있는 결과를 도출해 내는 데이터 분석가</h2>
+<h2>🔭 Data Analyst</h2>
 
 <h3>📚 Tech Stack 📚</h3>
 <p>
