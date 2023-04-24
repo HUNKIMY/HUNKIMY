@@ -9,7 +9,7 @@
 <h3>💡 My Git Stats 💡</h3>
 <p>
   <a href="https://github.com/${HUNKIMY}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${HUNKIMY}&show_icons=${true}&include_all_commits=${true}&theme=${radical}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
   </a>
 </p>
 <h3>📚 Tech Stack 📚</h3>
