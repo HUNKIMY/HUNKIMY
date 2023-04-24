@@ -1,6 +1,6 @@
 <h1>👋 Hello </h1>
 <h2>🔭 Data Analyst</h2>
-
+![Hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNKIMY&show_icons=true&theme=merko)
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
