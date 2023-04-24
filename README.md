@@ -1,6 +1,6 @@
 <h1>👋 Hello </h1>
 <h2>🔭 Data Analyst</h2>
-<img decoding="async" loading="lazy" align="center" alt="HUNKIMY's GitHub Stats" src="https://github-readme-stats-HUNKIMY.vercel.app/api?username=HUNKIMY&layout=compact&show_icons=true&hide=stars,contribs&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&icon_color=39d353&hide_rank=true&card_width=400" />
+![HUNKIMY's Stats](https://github-readme-stats.vercel.app/api?username=HUNKIMY&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
