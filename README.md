@@ -3,7 +3,7 @@
 <h3>💡 My Most Used Languages 💡</h3>
 <p>
   <a href="https://github.com/${HUNKIMY}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNKIMY&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
   </a>
 </p>
 <h3>💡 My Git Stats 💡</h3>
